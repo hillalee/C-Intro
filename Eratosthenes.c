@@ -1,6 +1,8 @@
 #include <stdio.h>
 #define N 100
 
+// prime numbers
+
 int sieve(void)
 {
 	int i, k;
